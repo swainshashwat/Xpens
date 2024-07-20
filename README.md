@@ -1,2 +1,2 @@
 # Xpens
-A Django build personal expense management application with advance analytics.
+A Django based personal expense management app with advance data analytics & visualization.
